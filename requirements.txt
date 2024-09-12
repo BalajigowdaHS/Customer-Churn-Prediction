@@ -1,3 +1,4 @@
+pip install --upgrade pip
 tensorflow==2.15.0
 pandas
 numpy
